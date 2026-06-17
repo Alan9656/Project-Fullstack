@@ -6,7 +6,7 @@ This repository is created to practice and learn Git and GitHub fundamentals.
 
 ## 📚 What I'm Learning
 
-- Git installation and setup
+- Git installation and setup read
 - Creating a repository
 - Git commands
   - git init
