@@ -1,6 +1,6 @@
 # Learning Git
 
-Welcome to my first GitHub repository! 👋 hi
+Welcome to my first GitHub repository! 👋 
 
 This repository is created to practice and learn Git and GitHub fundamentals.
 
